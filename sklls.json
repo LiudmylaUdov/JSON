@@ -1,1 +1,16 @@
-{"skills": "GitBash", "GitHub", "DevTools", "Android Studio", "JSON", "XML", "API", "Charles", "SQL", "Jmeter", "Python"}
+{
+	"skills":
+	{   "1":"GitBash",
+		"2": "GitHub",
+		"3": "DevTools",
+		"4": "Android Studio",
+		"5": "JSON",
+		"6": "XML",
+		"7": "API",
+		"8": "Charles",
+		"9": "SQL",
+		"10": "Jmeter",
+		"11": "Python"
+
+	}
+}
